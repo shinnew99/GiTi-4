@@ -4,7 +4,7 @@
 (언어순환을 위한 욕설탐지)
 
 
-## 2. Transcribing technical jargons <br>
+## 2. Transcribing technical jargons with higher accuracy <br>
 (영어가 섞인 전문용어를 정확한 영단어로 자막 출력)
 
 
