@@ -1,0 +1,92 @@
+{'text': '[음악]', 'start': 7.9, 'duration': 6.38}
+{'text': '예 여보세요 예 예예 안녕하세요 그랑', 'start': 10.2, 'duration': 7.48}
+{'text': '그 그 사촌 오빠분 되십니까 예 예', 'start': 14.28, 'duration': 5.36}
+{'text': '다게 그 장동원 실장이라고 하는데요', 'start': 17.68, 'duration': 5.0}
+{'text': '그 씨가 이쪽으로 연락드리면 그', 'start': 19.64, 'duration': 5.0}
+{'text': '원금은 뭐 일시 상환해 주신다 해가', 'start': 22.68, 'duration': 5.04}
+{'text': '이게 정확히 뭐 어떤', 'start': 24.64, 'duration': 7.48}
+{'text': '금융인 예 네 제 55만 원 내드리고', 'start': 27.72, 'duration': 7.2}
+{'text': '그 그 언니분이 뭐 상황 얘기해', 'start': 32.12, 'duration': 5.08}
+{'text': '주시더라고요 그래가지고 뭐 원금으로', 'start': 34.92, 'duration': 4.88}
+{'text': '해결한다 아니 그니까 이게 원금', 'start': 37.2, 'duration': 4.8}
+{'text': '얼마이자 얼만데요 이자도 없고 그냥', 'start': 39.8, 'duration': 3.919}
+{'text': '원금으로 해결하기로 했어요 아 그니까', 'start': 42.0, 'duration': 4.199}
+{'text': '원래 이차가 얼만데요', 'start': 43.719, 'duration': 5.081}
+{'text': '원래는 뭐 받기로 한 거 뭐 의미가', 'start': 46.199, 'duration': 5.281}
+{'text': '없죠 아 그니까 원래 얼마냐고요 원래', 'start': 48.8, 'duration': 6.04}
+{'text': '505 드리고 뭐가 90만 원 하신다', 'start': 51.48, 'duration': 6.399}
+{'text': '해가지고 그럼 말도 안 되는 이자이', 'start': 54.84, 'duration': 6.239}
+{'text': '어디 있어요 예 그래가지고 금', 'start': 57.879, 'duration': 5.6}
+{'text': '해한다고 했 아 그니까 이게 원금은', 'start': 61.079, 'duration': 5.841}
+{'text': '금인데 예이 말도 안 되는 이자이', 'start': 63.479, 'duration': 7.361}
+{'text': '어디 어느 나라 법이냐 예 예 그니까', 'start': 66.92, 'duration': 6.72}
+{'text': '그 이자가 어느 나라 법이냐 제가', 'start': 70.84, 'duration': 4.319}
+{'text': '연락드린 거는', 'start': 73.64, 'duration': 4.519}
+{'text': '그 그 이자가 어느 나라 법이냐', 'start': 75.159, 'duration': 6.92}
+{'text': '개같은 새끼야 너 어디 아 왜 욕을', 'start': 78.159, 'duration': 5.481}
+{'text': '하', 'start': 82.079, 'duration': 3.801}
+{'text': '어디냐고이야 나도 돈 쓸테니까이', 'start': 83.64, 'duration': 4.08}
+{'text': '나한테도 한번 받아봐 너 누군지', 'start': 85.88, 'duration': 2.96}
+{'text': '모르지', 'start': 87.72, 'duration': 3.28}
+{'text': '신데요 가 나 유튜브 하는 엄태', 'start': 88.84, 'duration': 4.919}
+{'text': '웅이라고 해 예 너 정식 사업체', 'start': 91.0, 'duration': 4.96}
+{'text': '대부업체 아니지 저 사촌 오빠 분이', 'start': 93.759, 'duration': 3.961}
+{'text': '아니신데요 아니까 아니잖아 사촌 오빠', 'start': 95.96, 'duration': 5.28}
+{'text': '나 사촌 동생이야데 어 알겠습니다 야', 'start': 97.72, 'duration': 5.28}
+{'text': '아 대답을 해', 'start': 101.24, 'duration': 5.6}
+{'text': '[음악]', 'start': 103.0, 'duration': 7.0}
+{'text': '봐 여보세요 아 자꾸 전화를 튕', 'start': 106.84, 'duration': 7.0}
+{'text': '구세요 님아 팅구 건 아니고요 그 왜', 'start': 110.0, 'duration': 6.479}
+{'text': '욕을 자꾸 하십니까 너도한테 욕했지', 'start': 113.84, 'duration': 5.16}
+{'text': '카톡으로 협박하고 그지 뭐 협박까지', 'start': 116.479, 'duration': 6.161}
+{'text': '아니고요 돈 못 받아가지고 그런 거죠', 'start': 119.0, 'duration': 7.2}
+{'text': '아니까이 돈 받을 거면 정당하게', 'start': 122.64, 'duration': 6.16}
+{'text': '합법적으로 해야지 왜 제자한테 불법', 'start': 126.2, 'duration': 5.28}
+{'text': '추심하다 안 되는 자 요구하고 하', 'start': 128.8, 'duration': 5.64}
+{'text': '그게 추심이 네가 언니한테 전화한게', 'start': 131.48, 'duration': 5.72}
+{'text': '추심이 불법 추심이 대법 미반 그게', 'start': 134.44, 'duration': 5.4}
+{'text': '나와 있어 언니분이 저한테 먼저', 'start': 137.2, 'duration': 3.679}
+{'text': '통화를', 'start': 139.84, 'duration': 3.56}
+{'text': '주셨어요 언니분들 그리고 네가 먼저', 'start': 140.879, 'duration': 4.08}
+{'text': '그게 카톡으로 이렇게 한 거 자체가', 'start': 143.4, 'duration': 5.36}
+{'text': '불법 심이라고 협 제가 제 카톡을 안', 'start': 144.959, 'duration': 6.881}
+{'text': '드렸어요 있는 카톡이면 그게 협박', 'start': 148.76, 'duration': 6.199}
+{'text': '제고 불법 심이라고 동원아 대가리가', 'start': 151.84, 'duration': 5.56}
+{'text': '빡대가리 건 알겠는데 그리고네 정식', 'start': 154.959, 'duration': 4.28}
+{'text': '대부업체도 아닌데이자 요구하는 거', 'start': 157.4, 'duration': 3.919}
+{'text': '자체가 대부업법', 'start': 159.239, 'duration': 4.321}
+{'text': '위반이라고요 빌려 준도 원금 받으려고', 'start': 161.319, 'duration': 5.721}
+{'text': '하 아 처음에 예 55만 원 빌리면', 'start': 163.56, 'duration': 6.039}
+{'text': '90만 원으로 갚으라고 했다면서요', 'start': 167.04, 'duration': 4.4}
+{'text': '예예', 'start': 169.599, 'duration': 5.64}
+{'text': '맞잖아요 그게 대법', 'start': 171.44, 'duration': 5.84}
+{'text': '위반이라고요 반이니까 원금을', 'start': 175.239, 'duration': 4.041}
+{'text': '받는다고요 원금을 받는데 그러면', 'start': 177.28, 'duration': 3.2}
+{'text': '그전에', 'start': 179.28, 'duration': 4.44}
+{'text': '그가 한행에 대해서도고해 고해서 합금', 'start': 180.48, 'duration': 6.319}
+{'text': '받으면 되겠다 그 하면 하가 봐봐', 'start': 183.72, 'duration': 6.76}
+{'text': '뭘로 되는지 나는 이런 거 꾸이 봐봐', 'start': 186.799, 'duration': 7.52}
+{'text': '동원아 너이 대이 아니야 모르겠', 'start': 190.48, 'duration': 6.96}
+{'text': '대이지 새끼야', 'start': 194.319, 'duration': 6.681}
+{'text': '좆가 짱 든가 그러면 너도 고소해라', 'start': 197.44, 'duration': 5.92}
+{'text': '나 모욕죄로', 'start': 201.0, 'duration': 7.68}
+{'text': '고소해 사람 그 어린애들 이렇게 그', 'start': 203.36, 'duration': 7.12}
+{'text': '인간새끼가', 'start': 208.68, 'duration': 4.44}
+{'text': '알아', 'start': 210.48, 'duration': 2.64}
+{'text': '아니냐고이', 'start': 213.2, 'duration': 4.64}
+{'text': '대답을 다른이 지금 너 걔네 엄마 너', 'start': 215.0, 'duration': 5.0}
+{'text': '걔네 언니들이나 걔한테 한번만 더', 'start': 217.84, 'duration': 4.64}
+{'text': '연락하지 너 어떻게 하나 봐이 같은', 'start': 220.0, 'duration': 6.36}
+{'text': '새끼야 너 어떻이 새끼야 뭐 언니분이', 'start': 222.48, 'duration': 6.039}
+{'text': '연락 주셨고요 언니분 아니까 연락하지', 'start': 226.36, 'duration': 3.56}
+{'text': '말고 나한테', 'start': 228.519, 'duration': 3.881}
+{'text': '연락하라고 야 그돈 내가 줄테니까 나', 'start': 229.92, 'duration': 5.44}
+{'text': '만나자 내 만나서 줄게 나 계자 이치', 'start': 232.4, 'duration': 5.119}
+{'text': '안 되거든 알겠습니다 알겠습니다 어', 'start': 235.36, 'duration': 5.0}
+{'text': '만나서 줄게 어딘데 어딘지 모르겠어', 'start': 237.519, 'duration': 6.321}
+{'text': '어딘데 줄게 엄태 씨요 어 그까', 'start': 240.36, 'duration': 5.76}
+{'text': '만나서 줄게 수고하십시오 그 유튜버분', 'start': 243.84, 'duration': 3.959}
+{'text': '아닙니까 그니까 만나서 준다고', 'start': 246.12, 'duration': 5.24}
+{'text': '어디냐고 아 됐', 'start': 247.799, 'duration': 7.481}
+{'text': '지금겠습니까한테 언니한테 한 번만 더', 'start': 251.36, 'duration': 3.92}
+{'text': '연락해', 'start': 259.12, 'duration': 3.0}
