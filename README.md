@@ -11,7 +11,7 @@
 
 <br><br><br>
 Our team is working on this independent research on detecting bad langagues to convert into good ones and better transcribe technical jargons from YouTube video clips.
-For our 1st final, we convert the bad languages into 'Beep' Sound using Whisper(Sound-To-Text) and YouTube APIs.
+For our 1st final, we convert the bad languages into 'Beep' Sound using Whisper(Sound-To-Text) and YouTube APIs. <br>
 https://docs.google.com/presentation/d/17vkdM2dwHE654JkUdyu8IwPUKgWPUKB6DV7-0k1Mn0A/edit#slide=id.g26248eb15f7_2_2
 
 This is our first final ppt slides.
