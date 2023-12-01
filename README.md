@@ -10,8 +10,11 @@
 
 
 <br><br><br>
-Our team is working on independent research on detecting bad langagues to convert in good ones and better transcribe technical jargons on video clips of YouTube.
+Our team is working on this independent research on detecting bad langagues to convert into good ones and better transcribe technical jargons from YouTube video clips.
+For our 1st final, we convert the bad languages into 'Beep' Sound using Whisper(Sound-To-Text) and YouTube APIs.
+https://docs.google.com/presentation/d/17vkdM2dwHE654JkUdyu8IwPUKgWPUKB6DV7-0k1Mn0A/edit#slide=id.g26248eb15f7_2_2
 
+This is our first final ppt slides.
 
 
 
@@ -24,4 +27,4 @@ Our team is working on independent research on detecting bad langagues to conver
 
 <br><br><br><br>
 
-#### Promptly be updating
+#### This README note is keep updating
